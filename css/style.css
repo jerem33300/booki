@@ -36,14 +36,17 @@ a {
 
 h1 {
     font-size: 22px;
+    font-weight: 700;
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 22px;
+    font-weight: 700;
 }
 
 h3 {
     font-size: 16px;
+    font-weight: 700;
 }
 
 .card-title {
@@ -204,6 +207,7 @@ header {
 
 .filters-title {
     margin: 0;
+    font-size: 18px;
 }
 
 .filter-container {
@@ -526,10 +530,13 @@ footer {
 
 .footer-nav-title {
     margin: 0;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .footer-nav-link {
     font-size: 16px;
+    font-weight: 400;
 }
 
 /****** Media queries ***********/
@@ -539,14 +546,11 @@ footer {
 /******* Body *******/
 
 @media (max-width: 1024px) {
-    body {
-        margin-bottom: 0;
-        max-width: 1024px;
-    }
+
 
     /******* Header *******/
 
-    .headerStyle {
+    .header {
         width: 100%;
         height: 79px;
     }
@@ -636,6 +640,7 @@ footer {
 
 @media (max-width: 768px) {
 
+    
     /*****Header*****/
 
     .header {
