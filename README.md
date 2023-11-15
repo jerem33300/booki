@@ -10,3 +10,4 @@ Objectif du projet :
     - Implémenter une interface responsive avec HTML et CSS
     
     
+<img alt="maquette desktop booki" src= Maquette_desktop_Bookie_ReadMe.png>
