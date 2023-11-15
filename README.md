@@ -8,9 +8,3 @@ Objectif du projet :
     - Intégrer du contenu conformément à une maquette Figma en HTML et CSS
     - Installer un environnement de développement front-end
     - Implémenter une interface responsive avec HTML et CSS
-
-    
-
-
-    
-<img alt="maquette desktop booki" src= Maquette_desktop_Bookie_ReadMe.png>
