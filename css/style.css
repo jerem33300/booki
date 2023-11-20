@@ -614,6 +614,10 @@ footer {
         height: 114px;
     }
 
+    .hosting-card:hover {
+        transform: none;
+    }
+
     /******* Popular *******/
 
     .popular-container {
@@ -630,10 +634,18 @@ footer {
         max-height: 100%;
     }
 
+    .popular-card:hover {
+        transform: none;
+    }
+
     /******* Activity *******/
 
     .activity-card-img {
         max-height: 200px;
+    }
+
+    .activity-card:hover {
+        transform: none;
     }
 }
 
