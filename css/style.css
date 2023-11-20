@@ -65,6 +65,7 @@ h3 {
 
 body {
     width: 100%;
+    max-width: 1440px;
     box-sizing: border-box;
     margin: auto;
 }
