@@ -724,11 +724,13 @@ footer {
         align-items: center;
         height: 100%;
         color: var(--main-bg-color);
+        line-height: none
     }
 
     .search-form-button-text {
         display: none;
     }
+
 
     /***filtre****/
 
